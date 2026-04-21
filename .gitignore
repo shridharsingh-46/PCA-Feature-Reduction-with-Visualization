@@ -1,0 +1,20 @@
+.system_generated/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
+*.log
+.system_generated/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
+*.log
+$RECYCLE.BIN/
+System\ Volume\ Information/
